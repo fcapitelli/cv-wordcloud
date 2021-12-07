@@ -1,0 +1,48 @@
+Felipe Capitelli
+Cientista de Dados
+Analista de Dados
+Perfil analítico e colaborativo, data-driven focado na solução de problemas. Bem flexível quanto a horário e carga de trabalho e sempre disposto a aprender sobre novas técnicas e áreas do conhecimento.
+Profissional com certificações: IBM Data Analyst Professional Certificate, IBM Data Science Professional Certificate, Google Data Analytics Professional Certificate e IBM Data Analysis & Visualization Foundations Specialization. Formação em Engenharia Química, Black Belt 6 Sigma, Auditor Interno Integrado (SGI) com foco em Qualidade e Melhoria Contínua. Amplo conhecimento em linguagens de programação (Delphi, Python, R, HTML, JavaScript e PHP) e atualmente estudando métodos de visualização de dados, tratamento de inconsistências, técnicas de Machine Learning e Big Data utilizando Python, R, SQL, Power BI e Tableau.
+Engenheiro Químico, Universidade Federal do Paraná, Curitiba.
+Analista de Business Intelligence Pleno na Electrolux, São Paulo.
+Execução e atualização de indicadores do varejo
+Análise de vendas e produtos
+Estudos direcionados utilizando Python, Power BI e técnicas de ETL
+Trader de Criptomoedas atuando como Profissional Autônomo, São Paulo
+Trader de criptomoedas atuando nas exchanges: Walltime, BitcoinTrade, Mercado Bitcoin, Bitfinex, Bittrex e Binance
+Desenvolvimento de sistema para auxiliar durante o processo de operação (tickers, acompanhamento de mercado, análise de rentabilidade)
+Prestador de Serviços na Bauer Ambiental Serviços e Tecnologias Ltda, Curitiba
+Prestação de serviços na área ambiental
+Pesquisa e desenvolvimento de metodologias de tratamento efluentes, resíduos e contaminantes industriais utilizando processos físico-químicos e oxidativos avançados
+Análises laboratoriais
+Projetos/dimensionamento de equipamentos/ETEs/plantas industriais
+Aluno Bolsista em Programa Interdisciplinar em Engenharia do Petróleo, Gás Natural e Biocombustíveis, Curitiba
+Pesquisas com os temas: Modelagem e Simulação Termodinâmica de Petróleo Utilizando os Modelos SAFT e PC-SAFT , Quadraturas Gaussianas Para Resolução de EDOs Não-Lineares e Desenvolvimento de Sensores Virtuais Usando Filtro de Kalman Para Aplicações na Indústria Petroquímica
+Publicação de artigo científico: Phase behavior of Brazilian stock tank oil and carbon dioxide at reservoir conditions: Experiments and thermodynamic modeling. C. B. K. Araújo, F. O. Capitelli, K. Rajagopal, M. L. Corazza and P. M. Ndiaye
+Google Data Analytics Professional Certificate, Google
+IBM Data Science Professional Certificate, IBM
+IBM Data Analyst Professional Certificate, IBM
+Data Analysis and Visualization Foundations Specialization, IBM
+Data Visualization and Dashboards with Excel and Cognos, IBM
+Excel Basics for Data Analysis, IBM
+Data Science Methodology, IBM
+Applied Data Science Capstone, IBM
+Data Analysis with Python, IBM
+Data Visualization with Python, IBM
+Machine Learning with Python, IBM
+Tools for Data Science, IBM
+Databases and SQL for Data Science with, IBM
+Python for Data Science, AI & Development, IBM
+Python Project for Data Science, IBM
+Scrum Fundamentals Certified (SFC), ScrumStudy
+Black Belt 6 Sigma, RL & Associados
+Auditor Interno Integrado (SGI) – NBR ISO 9001 NBR ISO 14001 e OHSAS 18001, Qualimaster
+Curso de Implementação do 5S, FM2S
+Analyze Data to Answer Questions, Google
+Prepare Data for Exploration, Google
+Share Data Through the Art of Visualization, Google
+Google Data Analytics Capstone: Complete a Case Study, Google
+Process Data from Dirty to Clean, Google
+Ask Questions to Make Data-Driven Decisions, Google
+Foundations: Data, Data, Everywhere, Google
+Data Analysis with R Programming, Google
